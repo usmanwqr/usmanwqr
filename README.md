@@ -1,6 +1,6 @@
 # Muhammad Usman 👋
 
-🚀 Software Engineer | Backend & Distributed Systems | Payments & Reliability
+🚀 Senior Software Engineer | Backend Engineering | Reliability Engineering
 
 📍 Islamabad, Pakistan  
 📧 Email: mohammadusman337@gmail.com  
@@ -12,9 +12,9 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer with strong experience in **backend development, payment systems, and site reliability engineering**. I specialize in building **scalable, reliable, and production-grade microservices**, with a strong focus on clean architecture, observability, and operational excellence.
+Software Engineer with strong experience in backend development, payment systems, and site reliability engineering, specializing in building scalable, reliable, and production-grade microservices with a strong focus on clean architecture, observability, and operational excellence.
 
-I enjoy solving complex problems, improving system reliability, and collaborating closely with product, QA, and business teams to deliver impactful solutions.
+Passionate about solving complex problems, improving system reliability, and collaborating closely with product, QA, and business teams to deliver impactful solutions.
 
 ---
 
@@ -103,14 +103,6 @@ I enjoy solving complex problems, improving system reliability, and collaboratin
 - **Leadership:** Leading teams and mentoring junior engineers
 - **Reliability Engineering:** Improving uptime, monitoring, and deployment safety
 - **Adaptability:** Quick learner in fast-paced, evolving environments
-
----
-
-## 🎓 Education
-
-**BS Electrical Engineering**  
-National University of Computer and Emerging Sciences (FAST-NUCES)  
-📅 Aug 2015 – Jan 2020
 
 ---
 
