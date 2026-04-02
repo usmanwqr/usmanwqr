@@ -3,8 +3,7 @@
 🚀 Senior Software Engineer | Backend Engineering | Reliability Engineering
 
 📍 Islamabad, Pakistan  
-📧 Email: mohammadusman337@gmail.com  
-📱 Phone: +92 307 5927895  
+📧 Email: mohammadusman337@gmail.com   
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-usman-888616189/)  
 💻 [GitHub](https://github.com/usmanwqr)
 
